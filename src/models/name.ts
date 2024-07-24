@@ -1,0 +1,6 @@
+export const db = "main-bugbanter"
+export const questionCollection = "question"
+export const answerCollection = "answer"
+export const commentCollection = "comments"
+export const voteCollection = "votes"
+export const questionAttachmentBucket = "question-attachment"
